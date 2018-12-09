@@ -12,7 +12,11 @@ Press `Build` -> `Build Solution`.  This will create a `PluginExample.dll` file 
 
 ### Run the Dedicated Server
 
-Execute the dedicated server and be sure console is active.  Add the `-plugin file.dll` to the command.  Alternatively, run the Dedicated Server GUI if you're testing from scratch. `SpaceEngineersDedicated.exe -console -path c:\data -plugin Plugins/se-plugin-example.dll`
+Execute the dedicated server and be sure console is active.  Add the `-plugin file.dll` to the command.  Alternatively, run the Dedicated Server GUI if you're testing from scratch. 
+
+```
+SpaceEngineersDedicated.exe -console -path c:\data -plugin Plugins/se-plugin-example.dll
+```
 
  You will see this in the console output:
 
