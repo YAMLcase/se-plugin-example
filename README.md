@@ -2,7 +2,7 @@
 
 This is a very bare-bones example project for building a plugin for Space Engineers Dedicated Server.  It may also be used for the client as well, but no console is present for testing.  This is not meant to be functional or even a framework for building your own plugin, it is just a "Hello World" example for the bare minimum plugin.
 
-If you are interested in using plugins and want a robust actively developed project, head on over to [TorchAPI](https://github.com/TorchAPI/Torch)
+If you are interested in using plugins and want a robust actively developed project head on over to [Torch](https://github.com/TorchAPI/Torch), the successor to SE Server Extender.
 
 ## Usage
 
